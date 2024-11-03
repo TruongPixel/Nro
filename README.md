@@ -90,7 +90,7 @@ apt-get install curl bc git zip wget ncurses-utils
 
 git clone https://github.com/TruongPixel/Nro
 
-cd Nro-Offline
+cd Nro
 
 ```
 ### Installation
